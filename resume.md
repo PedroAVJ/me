@@ -1,6 +1,5 @@
 
-
-| Nuevo Laredo, Tamaulipas, Mexico linkedin.com/in/pedro-villanueva-a5b561242/ | Pedro Villanueva |  |  | \+52 (867) 464-2606 pedroantoniovillanuevajuarez@gmail.com  |
+| Nuevo Laredo, Tamaulipas, Mexico linkedin.com/in/pedro-villanueva-a5b561242/ | Pedro Villanueva |  |  | \+52 (867) 464-2606 <pedroantoniovillanuevajuarez@gmail.com>  |
 | :---- | ----- | :---- | :---- | ----: |
 |  **Work Experience** |  |  |  |  |
 | **Full Stack Web Developer** | **Ventus Global Logistics** |  |  | **July 2023 \- Present** |
@@ -17,7 +16,7 @@
 | This project showcases a static website, meticulously crafted to align with the design sketches provided in Figma, linked in the repo. The goal was to achieve a pixel-perfect realization of these designs, ensuring both aesthetic appeal and functional robustness. **Technologies used:** Vue, GitHub Pages, Vite, Tailwind, Codespaces, Figma, Responsive design  |  |  |  |  |
 | **Data Science Visualization** |  |  |  | **February 2024** |
 | *github.com/PedroAVJ/ames-data-set* |  |  |  |  |
-| *https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2* |  |  |  |  |
+| *<https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2>* |  |  |  |  |
 | This is a simple data cleaning visualization for the famous Ames Housing Data set using Python Jupyter Notebooks. The visualization showcases that the data point of the year built doesn’t affect the relationship between the size of the building and its sale price. **Technologies used:** CodeLab, Jupyter Notebooks, Python, Pandas, Tableau, Kaggle, Data Science  |  |  |  |  |
 | **Problem Solving** |  |  |  |  |
 | **LeetCode** |  |  |  | **August 2022 \- Present** |
@@ -44,4 +43,3 @@
 | Achieved first place in my state and ranked in the top 50 nationally in a prestigious competition, culminating in a meeting with the President of Mexico at the time, Enrique Peña Nieto, as well as the presidents of my state and city.  *imgur.com/QP98R9N*  |  |  |  |  |
 | **English** |  |  |  |  |
 | **C1 Level:** You can validate my english proficiency by listening to this demo *youtu.be/kygSdMOgZoo* **Work Experience (*landstar.com*):** Served as a Logistics Coordinator, responsible for arranging phone appointments for cargo shipments to the United States. Demonstrated quick learning ability by mastering the role on-the-job, showcasing proficiency in English communication skills. **Academic Experience (*imuna.org/nhsmun/nyc/*):** Participated three times in the NHSMUN (National High School Model United Nations) conference held at the official UN building in New York City, engaging in debates with high school students from around the world. This experience honed my English debating skills and expanded my global perspective. *imgur.com/vTGKPgO*  |  |  |  |  |
-

@@ -2,6 +2,8 @@
 
 **Location:** Nuevo Laredo, Tamaulipas, Mexico  
 **LinkedIn:** [linkedin.com/in/pedro-villanueva-a5b561242](https://linkedin.com/in/pedro-villanueva-a5b561242)  
+**GitHub:** [github.com/PedroAVJ](https://github.com/PedroAVJ)  
+**LeetCode:** [leetcode.com/PedroAntonio/](https://leetcode.com/PedroAntonio/)
 **Phone:** +52 (867) 464-2606  
 **Email:** [pedroantoniovillanuevajuarez@gmail.com](mailto:pedroantoniovillanuevajuarez@gmail.com)
 
@@ -10,7 +12,6 @@
 ### Full Stack Web Developer
 
 **Company:** Ventus Global Logistics  
-**Website:** [ventusgl.com](https://ventusgl.com)  
 **Start Date:** July 2023  
 **End Date:** May 2024  
 
@@ -22,9 +23,6 @@
 - Effectively reduced high compute costs for a cloud server after being alerted by the owner. I conducted a targeted profiling of the services running on the machine. This revealed a single function with a constant while loop, which was engaging the CPU at 100% capacity. Optimizing this function led to significant cost savings and improved server efficiency.
 - Collaborated with coworkers in an urgent response to a customer request, successfully automating an entry generation process within a tight 3-day deadline by dedicating extra hours from Friday through Sunday.
 - Daily bug fixing of our legacy codebase both by manual SQL/stored procedure debugging, and scripting SQL queries and network directory traversals in Python.
-
-**Technologies used:** C\#, Visual Studio, Visual Basic, ASP MVC, IIS, Tailwind, htmx, Python, SQL server, Azure, Powershell, Vue, TypeScript, Entity Framework (EF)  |  |  |  |  |
-|
 
 ### Full Stack Web Developer
 

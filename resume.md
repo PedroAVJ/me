@@ -11,9 +11,9 @@
 
 ### Full Stack Web Developer
 
-**Company:** Hegar Soluciones en Sistemas
-**Start Date:** May 2024
-**End Date:** Present
+**Company:** Hegar Soluciones en Sistemas  
+**Start Date:** May 2024  
+**End Date:** Present  
 
 - I rejoined to lead the development of a web application that will be used by multiple companies for managing distribution, production, and sales. I architected a modular and scalable solution to ensure data integrity and security across different organizations.
 - I designed an independent database structure for each company, ensuring complete information isolation between clients. I used an authentication provider that stores metadata about each organization's connections. This approach allows me to establish secure and dynamic connections to the corresponding database on the server, eliminating the risk of data exposure between organizations.

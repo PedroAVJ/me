@@ -11,6 +11,17 @@
 
 ### Full Stack Web Developer
 
+**Company:** Hegar Soluciones en Sistemas
+**Start Date:** May 2024
+**End Date:** Present
+
+- I rejoined to lead the development of a web application that will be used by multiple companies for managing distribution, production, and sales. I architected a modular and scalable solution to ensure data integrity and security across different organizations.
+- I designed an independent database structure for each company, ensuring complete information isolation between clients. I used an authentication provider that stores metadata about each organization's connections. This approach allows me to establish secure and dynamic connections to the corresponding database on the server, eliminating the risk of data exposure between organizations.
+- I chose Next.js and Server Actions to optimize development and data handling in a secure and flexible way, leveraging the platform's full-stack model. This approach not only reduces the separation between frontend and backend but also accelerates the workflow and ensures proper implementation of user roles and permissions, without the need for an additional backend team.
+- For the user interface development, I chose ShadcnUI, a system that allows me to create highly customizable interfaces focused on delivering an excellent user experience (UX). While the development process can be slower due to its flexible approach, the main advantage is the ability to adjust any visual or functional aspect as needed, tailoring the interface to complex or customized user flows without compromising quality. This provides complete control over the presentation and ensures that the UI is fully adaptable to client needs.
+
+### Full Stack Web Developer
+
 **Company:** Ventus Global Logistics  
 **Start Date:** July 2023  
 **End Date:** May 2024  

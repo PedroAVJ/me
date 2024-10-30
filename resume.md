@@ -1,5 +1,10 @@
+# Pedro Villanueva
 
-| Nuevo Laredo, Tamaulipas, Mexico linkedin.com/in/pedro-villanueva-a5b561242/ | Pedro Villanueva |  |  | \+52 (867) 464-2606 <pedroantoniovillanuevajuarez@gmail.com>  |
+**Location:** Nuevo Laredo, Tamaulipas, Mexico  
+**LinkedIn:** [linkedin.com/in/pedro-villanueva-a5b561242](https://linkedin.com/in/pedro-villanueva-a5b561242)  
+**Phone:** +52 (867) 464-2606  
+**Email:** [pedroantoniovillanuevajuarez@gmail.com](mailto:pedroantoniovillanuevajuarez@gmail.com)
+
 | :---- | ----- | :---- | :---- | ----: |
 |  **Work Experience** |  |  |  |  |
 | **Full Stack Web Developer** | **Ventus Global Logistics** |  |  | **July 2023 \- Present** |

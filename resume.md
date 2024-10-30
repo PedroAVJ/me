@@ -70,24 +70,43 @@ This project showcases a static website, meticulously crafted to align with the 
 **Visualization:** [Tableau Public](https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2)  
 This is a simple data cleaning visualization for the famous Ames Housing Data set using Python Jupyter Notebooks. The visualization showcases that the data point of the year built doesn’t affect the relationship between the size of the building and its sale price.  
 
-| **Problem Solving** |  |  |  |  |
-| **LeetCode** |  |  |  | **August 2022 \- Present** |
-| *leetcode.com/PedroAntonio/* |  |  |  |  |
-| Solved over 400 programming problems on LeetCode, predominantly using Python. This includes approximately 200 easy, 180 medium, and 20 hard difficulty problems, demonstrating a wide range of problem-solving skills.  |  |  |  |  |
-| **Mental Arithmetic** |  |  |  | **November 2019** |
-| Secured 1st place in a city-wide mental arithmetic competition among high schools, achieving this feat without prior practice as I was recruited for the event at the last minute. *imgur.com/xgx7D11*  |  |  |  |  |
-| **Chess** |  |  |  |  |
-| Consistently won first place in my age category in city chess tournaments from 2015 to 2018\. Additionally, participated in three state-level chess tournaments, demonstrating advanced competitive skills.  |  |  |  |  |
-| **Courses** |  |  |  |  |
-| **CS50 Web** | **Harvard** |  |  | **December 2022 \- January 2023** |
-| *pll.harvard.edu/course/cs50s-web-programming-python-and-javascript* |  |  |  |  |
-| Gained in-depth knowledge of web development fundamentals through the CS50 web course, covering topics from Git and reactive frameworks to scalability and security. **Technologies used:** Python, JavaScript, React, Django, Git, SQLite, HTML5, CSS3 |  |  |  |  |
-| **CS50x** | **Harvard** |  |  | **July 2022 \- August 2022** |
-| *pll.harvard.edu/course/cs50-introduction-computer-science* |  |  |  |  |
-| Mastered the fundamentals of computer science in the renowned and challenging CS50 course, encompassing a wide range of topics from binary and data structures & algorithms (DSA), to programming languages and database systems. **Technologies used:** Scratch, C, Python, SQL, HTML5, CSS3, Javascript, Flask |  |  |  |  |
-| **Machine Learning Specialization** | **Stanford** |  |  | **April 2023 \- September 2023** |
-| *coursera.org/specializations/machine-learning-introduction* |  |  |  |  |
-| **Certificate:** coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF Acquired comprehensive knowledge of the three primary machine learning algorithms: supervised, unsupervised, and reinforcement learning. Gained practical understanding by partially coding these algorithms, including neural networks, to grasp their underlying intuition. **Technologies used:** Python, Jupyter Notebooks, Pandas, Numpy, Tensorflow, ScikitLearn  |  |  |  |  |
+## Achievements
+
+### Problem Solving
+
+**LeetCode**  
+*August 2022 - Present*  
+[leetcode.com/PedroAntonio](https://leetcode.com/PedroAntonio/)  
+Solved over 400 programming problems on LeetCode, predominantly using Python. This includes approximately 200 easy, 180 medium, and 20 hard difficulty problems, demonstrating a wide range of problem-solving skills.
+
+### Mental Arithmetic
+
+*November 2019*  
+Secured 1st place in a city-wide mental arithmetic competition among high schools, achieving this feat without prior practice as I was recruited for the event at the last minute.  
+[imgur.com/xgx7D11](https://imgur.com/xgx7D11)
+
+### Chess
+
+Consistently won first place in my age category in city chess tournaments from 2015 to 2018. Additionally, participated in three state-level chess tournaments, demonstrating advanced competitive skills.
+
+## Courses
+
+### CS50 Web
+
+**Link:** [pll.harvard.edu/course/cs50s-web-programming-python-and-javascript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)  
+Gained in-depth knowledge of web development fundamentals through the CS50 web course, covering topics from Git and reactive frameworks to scalability and security.  
+
+### CS50x
+
+**Link:** [pll.harvard.edu/course/cs50-introduction-computer-science](https://pll.harvard.edu/course/cs50-introduction-computer-science)  
+Mastered the fundamentals of computer science in the renowned and challenging CS50 course, encompassing a wide range of topics from binary and data structures & algorithms (DSA), to programming languages and database systems.  
+
+### Machine Learning Specialization
+
+**Link:** [coursera.org/specializations/machine-learning-introduction](https://coursera.org/specializations/machine-learning-introduction)  
+**Certificate:** [coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF](https://coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF)  
+Acquired comprehensive knowledge of the three primary machine learning algorithms: supervised, unsupervised, and reinforcement learning. Gained practical understanding by partially coding these algorithms, including neural networks, to grasp their underlying intuition.  
+
 | **Education** |  |  |  |  |
 | **Nuevo Laredo, Tamaulipas** | **Cbtis \#137** |  |  | **August 2017 \- June 2020** |
 | **Highschool:** Computer Programming. **Coursework (*cbtis137.edu.mx/especialidades/programacion*):** Data Structures & Algorithms, Object Oriented Programming, Web Development, Databases, Mobile Development. |  |  |  |  |

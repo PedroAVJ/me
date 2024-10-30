@@ -3,7 +3,7 @@
 **Location:** Nuevo Laredo, Tamaulipas, Mexico  
 **LinkedIn:** [linkedin.com/in/pedro-villanueva-a5b561242](https://linkedin.com/in/pedro-villanueva-a5b561242)  
 **GitHub:** [github.com/PedroAVJ](https://github.com/PedroAVJ)  
-**LeetCode:** [leetcode.com/PedroAntonio/](https://leetcode.com/PedroAntonio/)
+**LeetCode:** [leetcode.com/PedroAntonio/](https://leetcode.com/PedroAntonio/)  
 **Phone:** +52 (867) 464-2606  
 **Email:** [pedroantoniovillanuevajuarez@gmail.com](mailto:pedroantoniovillanuevajuarez@gmail.com)
 
@@ -46,17 +46,24 @@
 - Adhered to agile principles, ensuring responsiveness to customer needs and iterative improvement.
 - Ventured independently into .NET Multi-platform App UI (MAUI), developing a test application to exceed client expectations, demonstrating initiative and commitment to go beyond the familiar.
 
-| **Projects** |  |  |  |  |
-| **Battleship Web App**  |  |  |  | **April 2023 \- May 2023** |
-| *github.com/PedroAVJ/battleship* |  |  |  |  |
-| Developed a feature-rich clone of the Battleship board game, incorporating unique elements like special abilities, map selection, and an AI opponent. The AI utilizes a heuristic-based algorithm with Monte Carlo search to optimize gameplay. Crafted the game board and sprites from scratch, using no external libraries and leveraging a reactive programming framework for dynamic interactivity. **Technologies used:** Vue, JavaScript, Typescript, GitHub Pages, Vite |  |  |  |  |
-| **Website based on Figma design**  |  |  |  | **November 2023** |
-| *github.com/PedroAVJ/Clarifion* |  |  |  |  |
-| This project showcases a static website, meticulously crafted to align with the design sketches provided in Figma, linked in the repo. The goal was to achieve a pixel-perfect realization of these designs, ensuring both aesthetic appeal and functional robustness. **Technologies used:** Vue, GitHub Pages, Vite, Tailwind, Codespaces, Figma, Responsive design  |  |  |  |  |
-| **Data Science Visualization** |  |  |  | **February 2024** |
-| *github.com/PedroAVJ/ames-data-set* |  |  |  |  |
-| *<https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2>* |  |  |  |  |
-| This is a simple data cleaning visualization for the famous Ames Housing Data set using Python Jupyter Notebooks. The visualization showcases that the data point of the year built doesn’t affect the relationship between the size of the building and its sale price. **Technologies used:** CodeLab, Jupyter Notebooks, Python, Pandas, Tableau, Kaggle, Data Science  |  |  |  |  |
+## Projects
+
+### Battleship Web App
+
+**Repository:** [github.com/PedroAVJ/battleship](https://github.com/PedroAVJ/battleship)  
+Developed a feature-rich clone of the Battleship board game, incorporating unique elements like special abilities, map selection, and an AI opponent. The AI utilizes a heuristic-based algorithm with Monte Carlo search to optimize gameplay. Crafted the game board and sprites from scratch, using no external libraries and leveraging a reactive programming framework for dynamic interactivity.  
+
+### Website based on Figma design
+
+**Repository:** [github.com/PedroAVJ/Clarifion](https://github.com/PedroAVJ/Clarifion)  
+This project showcases a static website, meticulously crafted to align with the design sketches provided in Figma, linked in the repo. The goal was to achieve a pixel-perfect realization of these designs, ensuring both aesthetic appeal and functional robustness.  
+
+### Data Science Visualization
+
+**Repository:** [github.com/PedroAVJ/ames-data-set](https://github.com/PedroAVJ/ames-data-set)  
+**Visualization:** [Tableau Public](https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2)  
+This is a simple data cleaning visualization for the famous Ames Housing Data set using Python Jupyter Notebooks. The visualization showcases that the data point of the year built doesn’t affect the relationship between the size of the building and its sale price.  
+
 | **Problem Solving** |  |  |  |  |
 | **LeetCode** |  |  |  | **August 2022 \- Present** |
 | *leetcode.com/PedroAntonio/* |  |  |  |  |

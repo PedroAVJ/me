@@ -30,7 +30,11 @@
 **Start Date:** January 2023
 **End Date:** July 2023
 
-| Acquired Vue proficiency on-the-job and successfully migrated a codebase from JQuery and Django to Django Rest Framework (DRF) and Vue TypeScript within a tight 3-week timeframe. Designed and implemented an internal control system for order management and billing, involving weekly communication with the customer to guide development direction. This process adhered to agile principles, ensuring responsiveness to customer needs and iterative improvement. Facing challenges, I ventured independently into .NET Multi-platform App UI (MAUI), developing a test application to exceed client expectations. This demonstrates my initiative and commitment to go beyond the familiar. **Technologies used:** Python, Django, DRF, Typescript, JavaScript, Vue, Vite, SQLite, JQuery, VSCode, OpenAPI, .NET, MAUI  |  |  |  |  |
+- Acquired Vue proficiency on-the-job and successfully migrated a codebase from JQuery and Django to Django Rest Framework (DRF) and Vue TypeScript within a tight 3-week timeframe.
+- Designed and implemented an internal control system for order management and billing, involving weekly communication with the customer to guide development direction.
+- Adhered to agile principles, ensuring responsiveness to customer needs and iterative improvement.
+- Ventured independently into .NET Multi-platform App UI (MAUI), developing a test application to exceed client expectations, demonstrating initiative and commitment to go beyond the familiar.
+
 | **Projects** |  |  |  |  |
 | **Battleship Web App**  |  |  |  | **April 2023 \- May 2023** |
 | *github.com/PedroAVJ/battleship* |  |  |  |  |

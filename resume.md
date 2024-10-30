@@ -48,6 +48,12 @@
 
 ## Projects
 
+### Fotogenio
+
+**Repository:** [github.com/PedroAVJ/fotogenio](https://github.com/PedroAVJ/fotogenio)
+**Website:** [fotogenio.mx](https://fotogenio.mx)
+An AI photo generator service that got around 20 users. It uses [replicate](https://replicate.com/) as the ML model provider. The main challenge was iterating quickly when manually testing the app would requires training the model again, since each user gets it's own fine tune. Since replicate doesn't provide a way to send test events, this was the only way to test the app.
+
 ### Battleship Web App
 
 **Repository:** [github.com/PedroAVJ/battleship](https://github.com/PedroAVJ/battleship)  

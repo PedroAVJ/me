@@ -123,14 +123,17 @@ Achieved first place in my state and ranked in the top 50 nationally in a presti
 ### English Proficiency
 
 **Level:** C1  
-**Validation:** You can validate my English proficiency by listening to this demo: [youtu.be/kygSdMOgZoo](https://youtu.be/kygSdMOgZoo)  
+**Validation:** You can validate my English proficiency by listening to this demo: [YouTube Demo](https://youtu.be/kygSdMOgZoo)
+
 **Work Experience:**
 
 - **Company:** Landstar
 - **Role:** Logistics Coordinator
-- **Responsibilities:** Arranging phone appointments for cargo shipments to the United States. Demonstrated quick learning ability by mastering the role on-the-job, showcasing proficiency in English communication skills.
-  **Academic Experience:**
+- **Responsibilities:** Arranging phone appointments for cargo shipments to the United States. Demonstrated quick learning ability by mastering the role on the job, showcasing proficiency in English communication skills.
+
+**Academic Experience:**
+
 - **Event:** NHSMUN (National High School Model United Nations)
-- **Location:** Official UN building in New York City
-- **Participation:** Participated three times, engaging in debates with high school students from around the world. This experience honed my English debating skills and expanded my global perspective.  
-  [imgur.com/vTGKPgO](https://imgur.com/vTGKPgO)
+- **Location:** Official UN Building in New York City
+- **Participation:** Participated three times, engaging in debates with high school students from around the world. This experience honed my English debating skills and expanded my global perspective.
+- **Proof:** [https://imgur.com/vTGKPgO](https://imgur.com/vTGKPgO)

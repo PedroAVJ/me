@@ -107,10 +107,31 @@ Mastered the fundamentals of computer science in the renowned and challenging CS
 **Certificate:** [coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF](https://coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF)  
 Acquired comprehensive knowledge of the three primary machine learning algorithms: supervised, unsupervised, and reinforcement learning. Gained practical understanding by partially coding these algorithms, including neural networks, to grasp their underlying intuition.  
 
-| **Education** |  |  |  |  |
-| **Nuevo Laredo, Tamaulipas** | **Cbtis \#137** |  |  | **August 2017 \- June 2020** |
-| **Highschool:** Computer Programming. **Coursework (*cbtis137.edu.mx/especialidades/programacion*):** Data Structures & Algorithms, Object Oriented Programming, Web Development, Databases, Mobile Development. |  |  |  |  |
-| **Olimpiada del Conocimiento Infantil** |  |  |  | **Summer 2014** |
-| Achieved first place in my state and ranked in the top 50 nationally in a prestigious competition, culminating in a meeting with the President of Mexico at the time, Enrique Peña Nieto, as well as the presidents of my state and city.  *imgur.com/QP98R9N*  |  |  |  |  |
-| **English** |  |  |  |  |
-| **C1 Level:** You can validate my english proficiency by listening to this demo *youtu.be/kygSdMOgZoo* **Work Experience (*landstar.com*):** Served as a Logistics Coordinator, responsible for arranging phone appointments for cargo shipments to the United States. Demonstrated quick learning ability by mastering the role on-the-job, showcasing proficiency in English communication skills. **Academic Experience (*imuna.org/nhsmun/nyc/*):** Participated three times in the NHSMUN (National High School Model United Nations) conference held at the official UN building in New York City, engaging in debates with high school students from around the world. This experience honed my English debating skills and expanded my global perspective. *imgur.com/vTGKPgO*  |  |  |  |  |
+## Education
+
+### Cbtis #137, Nuevo Laredo, Tamaulipas
+
+**High School:** Computer Programming  
+**Duration:** August 2017 - June 2020  
+**Coursework:** [Data Structures & Algorithms, Object Oriented Programming, Web Development, Databases, Mobile Development](http://cbtis137.edu.mx/especialidades/programacion)
+
+### Olimpiada del Conocimiento Infantil
+
+**Achievement:**  
+Achieved first place in my state and ranked in the top 50 nationally in a prestigious competition, culminating in a meeting with the President of Mexico at the time, Enrique Peña Nieto, as well as the presidents of my state and city.  
+[imgur.com/QP98R9N](https://imgur.com/QP98R9N)  
+**Date:** Summer 2014
+
+### English Proficiency
+
+**Level:** C1  
+**Validation:** You can validate my English proficiency by listening to this demo: [youtu.be/kygSdMOgZoo](https://youtu.be/kygSdMOgZoo)  
+**Work Experience:**  
+- **Company:** Landstar  
+- **Role:** Logistics Coordinator  
+- **Responsibilities:** Arranging phone appointments for cargo shipments to the United States. Demonstrated quick learning ability by mastering the role on-the-job, showcasing proficiency in English communication skills.
+**Academic Experience:**  
+- **Event:** NHSMUN (National High School Model United Nations)  
+- **Location:** Official UN building in New York City  
+- **Participation:** Participated three times, engaging in debates with high school students from around the world. This experience honed my English debating skills and expanded my global perspective.  
+[imgur.com/vTGKPgO](https://imgur.com/vTGKPgO)

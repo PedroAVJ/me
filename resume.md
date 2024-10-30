@@ -50,37 +50,40 @@
 
 ### Fotogenio
 
-**Repository:** [github.com/PedroAVJ/fotogenio](https://github.com/PedroAVJ/fotogenio)
+**Repository:** [github.com/PedroAVJ/fotogenio](https://github.com/PedroAVJ/fotogenio)  
 **Website:** [fotogenio.mx](https://fotogenio.mx)
+
 An AI photo generator service that got around 20 users. It uses [replicate](https://replicate.com/) as the ML model provider. The main challenge was iterating quickly when manually testing the app would requires training the model again, since each user gets it's own fine tune. Since replicate doesn't provide a way to send test events, this was the only way to test the app.
 
 ### Battleship Web App
 
-**Repository:** [github.com/PedroAVJ/battleship](https://github.com/PedroAVJ/battleship)  
+**Repository:** [github.com/PedroAVJ/battleship](https://github.com/PedroAVJ/battleship)
+
 Developed a feature-rich clone of the Battleship board game, incorporating unique elements like special abilities, map selection, and an AI opponent. The AI utilizes a heuristic-based algorithm with Monte Carlo search to optimize gameplay. Crafted the game board and sprites from scratch, using no external libraries and leveraging a reactive programming framework for dynamic interactivity.
 
 ### Website based on Figma design
 
-**Repository:** [github.com/PedroAVJ/Clarifion](https://github.com/PedroAVJ/Clarifion)  
+**Repository:** [github.com/PedroAVJ/Clarifion](https://github.com/PedroAVJ/Clarifion)
+
 This project showcases a static website, meticulously crafted to align with the design sketches provided in Figma, linked in the repo. The goal was to achieve a pixel-perfect realization of these designs, ensuring both aesthetic appeal and functional robustness.
 
 ### Data Science Visualization
 
 **Repository:** [github.com/PedroAVJ/ames-data-set](https://github.com/PedroAVJ/ames-data-set)  
-**Visualization:** [Tableau Public](https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2)  
+**Visualization:** [Tableau Public](https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2)
+
 This is a simple data cleaning visualization for the famous Ames Housing Data set using Python Jupyter Notebooks. The visualization showcases that the data point of the year built doesn’t affect the relationship between the size of the building and its sale price.
 
 ### LeetCode
 
-_August 2022 - Present_  
-[leetcode.com/PedroAntonio](https://leetcode.com/PedroAntonio/)  
+**Profile:** [leetcode.com/PedroAntonio](https://leetcode.com/PedroAntonio/)  
 Solved over 400 programming problems on LeetCode, predominantly using Python. This includes approximately 200 easy, 180 medium, and 20 hard difficulty problems, demonstrating a wide range of problem-solving skills.
 
 ### Mental Arithmetic
 
-_November 2019_  
+**Date:** _November 2019_
+**Diploma:** [imgur.com/xgx7D11](https://imgur.com/xgx7D11)
 Secured 1st place in a city-wide mental arithmetic competition among high schools, achieving this feat without prior practice as I was recruited for the event at the last minute.  
-[imgur.com/xgx7D11](https://imgur.com/xgx7D11)
 
 ### Chess
 
@@ -88,18 +91,21 @@ Consistently won first place in my age category in city chess tournaments from 2
 
 ### CS50 Web
 
-**Link:** [pll.harvard.edu/course/cs50s-web-programming-python-and-javascript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)  
+**Link:** [pll.harvard.edu/course/cs50s-web-programming-python-and-javascript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)
+
 Gained in-depth knowledge of web development fundamentals through the CS50 web course, covering topics from Git and reactive frameworks to scalability and security.
 
 ### CS50x
 
-**Link:** [pll.harvard.edu/course/cs50-introduction-computer-science](https://pll.harvard.edu/course/cs50-introduction-computer-science)  
+**Link:** [pll.harvard.edu/course/cs50-introduction-computer-science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+
 Mastered the fundamentals of computer science in the renowned and challenging CS50 course, encompassing a wide range of topics from binary and data structures & algorithms (DSA), to programming languages and database systems.
 
 ### Machine Learning Specialization
 
 **Link:** [coursera.org/specializations/machine-learning-introduction](https://coursera.org/specializations/machine-learning-introduction)  
-**Certificate:** [coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF](https://coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF)  
+**Certificate:** [coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF](https://coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF)
+
 Acquired comprehensive knowledge of the three primary machine learning algorithms: supervised, unsupervised, and reinforcement learning. Gained practical understanding by partially coding these algorithms, including neural networks, to grasp their underlying intuition.
 
 ### Education
@@ -110,10 +116,9 @@ Acquired comprehensive knowledge of the three primary machine learning algorithm
 
 ### Olimpiada del Conocimiento Infantil
 
-**Achievement:**  
-Achieved first place in my state and ranked in the top 50 nationally in a prestigious competition, culminating in a meeting with the President of Mexico at the time, Enrique Peña Nieto, as well as the presidents of my state and city.  
-[imgur.com/QP98R9N](https://imgur.com/QP98R9N)  
 **Date:** Summer 2014
+
+Achieved first place in my state and ranked in the top 50 nationally in a prestigious competition, culminating in a [meeting](https://imgur.com/QP98R9N) with the President of Mexico at the time, Enrique Peña Nieto, as well as the presidents of my state and city.
 
 ### English Proficiency
 

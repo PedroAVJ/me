@@ -46,7 +46,7 @@
 - Adhered to agile principles, ensuring responsiveness to customer needs and iterative improvement.
 - Ventured independently into .NET Multi-platform App UI (MAUI), developing a test application to exceed client expectations, demonstrating initiative and commitment to go beyond the familiar.
 
-## Projects
+## Miscellaneous
 
 ### Fotogenio
 
@@ -70,11 +70,8 @@ This project showcases a static website, meticulously crafted to align with the 
 **Visualization:** [Tableau Public](https://public.tableau.com/app/profile/pedro.antonio.villanueva.juarez/viz/AmesHousingDataSet/Sheet2)  
 This is a simple data cleaning visualization for the famous Ames Housing Data set using Python Jupyter Notebooks. The visualization showcases that the data point of the year built doesn’t affect the relationship between the size of the building and its sale price.  
 
-## Achievements
+### LeetCode
 
-### Problem Solving
-
-**LeetCode**  
 *August 2022 - Present*  
 [leetcode.com/PedroAntonio](https://leetcode.com/PedroAntonio/)  
 Solved over 400 programming problems on LeetCode, predominantly using Python. This includes approximately 200 easy, 180 medium, and 20 hard difficulty problems, demonstrating a wide range of problem-solving skills.
@@ -88,8 +85,6 @@ Secured 1st place in a city-wide mental arithmetic competition among high school
 ### Chess
 
 Consistently won first place in my age category in city chess tournaments from 2015 to 2018. Additionally, participated in three state-level chess tournaments, demonstrating advanced competitive skills.
-
-## Courses
 
 ### CS50 Web
 
@@ -107,11 +102,9 @@ Mastered the fundamentals of computer science in the renowned and challenging CS
 **Certificate:** [coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF](https://coursera.org/account/accomplishments/specialization/certificate/7TSFVXWH47CF)  
 Acquired comprehensive knowledge of the three primary machine learning algorithms: supervised, unsupervised, and reinforcement learning. Gained practical understanding by partially coding these algorithms, including neural networks, to grasp their underlying intuition.  
 
-## Education
+### Education
 
-### Cbtis #137, Nuevo Laredo, Tamaulipas
-
-**High School:** Computer Programming  
+**High School:** Cbtis #137, Nuevo Laredo, Tamaulipas  
 **Duration:** August 2017 - June 2020  
 **Coursework:** [Data Structures & Algorithms, Object Oriented Programming, Web Development, Databases, Mobile Development](http://cbtis137.edu.mx/especialidades/programacion)
 
